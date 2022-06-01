@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "886083461698",
+    "firebase_url": "https://facerecogapp-38e47.firebaseio.com",
+    "project_id": "facerecogapp-38e47",
+    "storage_bucket": "facerecogapp-38e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886083461698:android:330146b5d616f0a1",
+        "android_client_info": {
+          "package_name": "com.karthik_gayakwad.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886083461698-rsq052l50b5eavjeom78sqindbakg3c7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthik_gayakwad.facerecognition",
+            "certificate_hash": "cf5bc9c235c4c93105d5e8a85e5a92ade9fcdf4a"
+          }
+        },
+        {
+          "client_id": "886083461698-e8m4j9ns5hjgad8qbn0s811i15dmkk59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpyrnYtsKyTGODtqdERazAcAkraagUc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886083461698-e8m4j9ns5hjgad8qbn0s811i15dmkk59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
